@@ -218,6 +218,8 @@ foreach ($posts as $post) {
 Note that you can use array notation even if `asArray` wasn't specified and you're
 working with AR objects.
 
+### Composer Autoloading Optimization
+
 ### Processing data in background
 
 In order to respond to user requests faster you can process heavy parts of the
